@@ -1,6 +1,6 @@
 import { useState } from "react";
 import axios from "axios"; 
-import Hero from "../../assets/hero.png";
+import Hero from "../../assets/Hero.png";
 
 function ReferAndEarn() {
   const [show, setShow] = useState(false);
