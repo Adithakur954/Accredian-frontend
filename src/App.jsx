@@ -3,7 +3,7 @@ import axios from "axios";
 
 import "./App.css";
 import Header from "./Components/Header/Header";
-import ReferAndEarn from "./Components/ReferandEarn/referandearn";
+import ReferAndEarn from "./Components/ReferandEarn/Referandearn";
 import Footer from "./Components/footer/Footer";
 import FAQ from "./Components/faq/FAQ";
 
